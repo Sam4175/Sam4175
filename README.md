@@ -23,7 +23,7 @@ Hand Gesture Recognition can be used for many things:
                                              Inverted Gaussian Blur Image
                                              Pencil sketch = Gray image
 
-# Libraries needed to install for Image Processing
+Libraries needed to install for Image Processing
 Pip install opencv-python
 
 
