@@ -44,3 +44,7 @@ Contour detection is carries out only for detecting the objects in the image
  
 
 ![image](https://user-images.githubusercontent.com/96665634/148534843-e1c57a1f-2f81-4f81-b494-c8d40b291b0c.png)
+
+
+https://user-images.githubusercontent.com/96665634/149989575-a3ff9825-713d-4071-bde5-ea2813d33f48.mp4
+
